@@ -6,8 +6,8 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
-    qDebug()<<"hello";
-    qDebug()<<"hello";
+    qDebug()<<"hellljjfslllo";
+    qDebug()<<"heldasdffalo";
      qDebug()<<"hello";
 
     return a.exec();
